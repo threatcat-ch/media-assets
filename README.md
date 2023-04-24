@@ -2,6 +2,9 @@
 
 Logos, images and other assets related to ThreatCat.ch. Licence is Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0),  https://creativecommons.org/licenses/by-nd/4.0/.
 
+## Leadership Photos
+High-resolution photos of our fearless threatcat mascot.
+
 ## Logo
 
 Prefixes:
